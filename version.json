@@ -1,0 +1,8 @@
+ {
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/Think-notify/esp32-irrigate/refs/heads/main/firmware_v1.0.1.bin",
+  "allowed_macs": [
+   "8c:fd:49:18:7a:e8",
+   "8c:fd:49:18:7a:2d" 
+  ]
+}
